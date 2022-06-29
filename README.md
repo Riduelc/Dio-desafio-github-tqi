@@ -1,5 +1,5 @@
 # Dio-desafio-github-tqi
-Desafio de projeto sobre Git/Github
+Reposítório criado para o desafio de projeto sobre Git/Github
 
 
 ## Links úteis:
